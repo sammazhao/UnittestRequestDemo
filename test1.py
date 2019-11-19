@@ -1,3 +1,4 @@
+# coding=utf-8
 import requests
 import chunk
 from requests.cookies import RequestsCookieJar
